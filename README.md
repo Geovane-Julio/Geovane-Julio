@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Geovane-Julio
 - 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: geovanejuliocandido2017@hotmail.com
 
 <!---
