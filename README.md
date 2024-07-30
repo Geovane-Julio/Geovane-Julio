@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: geovanejuliocandido2017@hotmail.com
-- ⚡ Fun fact: ...
 
 <!---
 Geovane-Julio/Geovane-Julio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
